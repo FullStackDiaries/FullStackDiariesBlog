@@ -1,0 +1,4 @@
+[submodule "FullStackDiaries/public"]
+	path = FullStackDiaries/public
+	url = https://github.com/FullStackDiaries/FullStackDiaries.github.io.git
+	branch = main
