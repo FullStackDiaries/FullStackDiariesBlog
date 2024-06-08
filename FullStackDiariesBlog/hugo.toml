@@ -1,4 +1,0 @@
-baseURL = 'https://FullStackDiaries.github.io/'
-languageCode = 'en-us'
-title = 'Full Stack Diaries'
-theme = "hugo-blog-awesome"
